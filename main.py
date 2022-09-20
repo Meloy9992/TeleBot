@@ -8,7 +8,7 @@ phone_number = 0
 social_network = list('')
 isClear = True
 
-bot = telebot.TeleBot("5409112396:AAF2zOaQYFvtI3wLQL460NSBsknpGxbB1A8")
+bot = telebot.TeleBot("")
 
 def addToDatabase():
     global isClear

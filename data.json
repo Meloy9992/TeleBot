@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "full_name": "kjhgf",
+            "phone_number": 1234,
+            "social_network": "jhgfd"
+        },
+        {
+            "full_name": "Аб",
+            "phone_number": 234,
+            "social_network": "апр"
+        },
+        {
+            "full_name": "Василий",
+            "phone_number": 4234,
+            "social_network": "апр, цук"
+        },
+        {
+            "full_name": "Ааалий",
+            "phone_number": 123,
+            "social_network": "апр, цук, цук"
+        }
+    ]
+}
